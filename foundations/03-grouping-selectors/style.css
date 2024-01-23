@@ -1,0 +1,13 @@
+.blackboi {
+    background-color: black;
+    color: white;
+}
+.yellowboi {
+    background-color: yellow;
+}
+
+.blackboi,
+.yellowboi {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
